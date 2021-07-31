@@ -1,3 +1,8 @@
+URL  
+- [How to get user language](https://stackoverflow.com/questions/8199760/how-to-get-the-browser-language-using-javascript)  
+- [What would be the result of window.navigator.userLanguage || window.navigator.language if I run it on browser in Romania](https://stackoverflow.com/questions/40165353/what-would-be-the-result-of-window-navigator-userlanguage-window-navigator-la)  
+- [how to display a javascript var in html body](https://stackoverflow.com/questions/40858456/how-to-display-a-javascript-var-in-html-body)
+- [Browser Language Detection](https://aruljohn.com/language.php)
 
 ```
 <!DOCTYPE html>
